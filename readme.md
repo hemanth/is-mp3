@@ -1,4 +1,4 @@
-# is-mp3 [![Build Status](https://travis-ci.org/hemanth/is-ogg.svg?branch=master)](https://travis-ci.org/hemanth/is-gif)
+# is-mp3 [![Build Status](https://travis-ci.org/hemanth/is-mp3.svg?branch=master)](https://travis-ci.org/hemanth/is-mp3)
 
 > Check if a Buffer/Uint8Array is a MP3 file.
 

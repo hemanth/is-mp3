@@ -1,6 +1,6 @@
 {
   "name": "is-mp3",
-  "description": "Check if a Buffer/Uint8Array an mp3 file.",
+  "description": "Check if a Buffer/Uint8Array a MP3 file.",
   "license": "MIT",
   "main": "browser.js",
   "authors": [
