@@ -1,0 +1,30 @@
+{
+  "name": "is-mp3",
+  "description": "Check if a Buffer/Uint8Array an mp3 file.",
+  "license": "MIT",
+  "main": "browser.js",
+  "authors": [
+    {
+      "name": "Hemanth.HM",
+      "email": "hemath.hm@gmail.com",
+      "url": "http://h3manth.com"
+    }
+  ],
+   "keywords": [
+    "mp3",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "binary",
+    "buffer",
+    "uint8array"
+  ],
+  "ignore": [
+    ".*",
+    "test.js",
+    "component.json",
+    "package.json",
+    "fixture*"
+  ]
+}
