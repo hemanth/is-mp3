@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Check if a Buffer/Uint8Array is a MP3 file",
   "license": "MIT",
-  "repo": "hemanth/is-mp3",
+  "repository": "hemanth/is-mp3",
   "scripts": [
     "index.js"
   ],
