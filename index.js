@@ -9,6 +9,6 @@ module.exports = function (buf) {
 		buf[2] === 51) || ( 
       buf[0] === 255 &&
       buf[1] === 251
-    )
+    );
   
 };
