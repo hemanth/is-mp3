@@ -1,6 +1,6 @@
 {
   "name": "is-mp3",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Check if a Buffer/Uint8Array is a MP3 file.",
   "license": "MIT",
   "repository": "hemanth/is-mp3",
