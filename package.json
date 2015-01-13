@@ -30,7 +30,7 @@
     "uint8array"
   ],
   "devDependencies": {
-    "browserify": "^7.0.0",
+    "browserify": "^8.1.0",
     "mocha": "*",
     "read-chunk": "^1.0.0"
   }
