@@ -32,6 +32,6 @@
   "devDependencies": {
     "browserify": "^8.1.0",
     "mocha": "*",
-    "read-chunk": "^1.0.0"
+    "read-chunk": "^2.0.0"
   }
 }
