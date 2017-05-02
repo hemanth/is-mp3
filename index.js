@@ -8,7 +8,7 @@ module.exports = function (buf) {
 		buf[1] === 68 &&
 		buf[2] === 51) || ( 
       buf[0] === 255 &&
-      buf[1] === 251
+      (buf[1] === 251 || buf[1] === 250)
     );
   
 };
